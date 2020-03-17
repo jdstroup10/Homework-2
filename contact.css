@@ -3,6 +3,10 @@ body {
     background-image: url(https://www.designbolts.com/wp-content/uploads/2012/12/Washi-White-Seamless-Pattern-For-Website-Background.jpg);
 }
 
+.fixed-bottom { position: fixed;
+    left: 0;
+    bottom: 0;  
+}
 
 
 
