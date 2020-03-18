@@ -16,6 +16,9 @@ h1 {
     bottom: 0;  
 }
 
+.btn {
+    margin-top: 20px;
+}
 
 .m-container {
     background-color: white;
