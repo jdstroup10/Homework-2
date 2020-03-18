@@ -5,6 +5,9 @@ Jason Strouphauer
 
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
 
+## Screenshot
+![Screenshot of the Project](https://github.com/jdstroup10/Homework/blob/master/Homework%201%20Image.png)
+
 
 ## Directions
 
